@@ -1,0 +1,28 @@
+The current file provides a short description about the content of the current
+CD. The description is made with respect to the order that the files are
+placed in the CD.
+
+1) multiprocessing.py. The current python script corresponds to the first 
+stage of the framework which solves l_1 minimization problem.
+
+2) phase_transitions.py. The current pythonn script corresponds to the 
+second stage of the framework which develops the Logistic Regression Model
+
+3) polytope. The current matlab file containts the tabulated values of the
+ regular polytopes.
+
+4) read_test_broaden_range.py. The current python script reads the results
+stored in testbroadenrange.hdf5 and then compares the phase transitions 
+extracted by theLogistic Regression Model versus the  upper and lower bound 
+of the phase transitions based on the cross polytopes.
+
+
+5) report. The current PDF contains the worksheets from the 8th semester 
+project of group 15gr870. 
+
+6) testbroadenrange.hdf5 . The current hdf5 file contains the results from
+ the experiment for N=1000.
+
+
+
+ 
