@@ -1,6 +1,6 @@
 The current file provides a short description about the content of the current
-CD. The description is made with respect to the order that the files are
-placed in the CD.
+folder. In order to run the multiprocessing.py script it is necessary to download the 
+pyunlocbox for python. Download link:https://pypi.python.org/pypi/pyunlocbox
 
 1) multiprocessing.py. The current python script corresponds to the first 
 stage of the framework which solves l_1 minimization problem.
